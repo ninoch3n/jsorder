@@ -18,10 +18,28 @@ var hrana = [
 		cijena: "35,00 kn"
 	},
 	{
-		naziv: "Pohana piletina",
+		naziv: "Bečki od svinjetine",
 		slika: "assets/menu-image.png",
-		opis: "(Pohana piletina uz pomfrit)",
-		cijena: "30,00 kn"
+		opis: "(Šnicla od svinjskog buta pohana u krušnim mrvicama)",
+		cijena: "40,00 kn"
+	},
+	{
+		naziv: "Punjena pljeskavica",
+		slika: "assets/menu-image.png",
+		opis: "(Juneća pljeskavica punjena sirom)",
+		cijena: "36,00 kn"
+	},
+	{
+		naziv: "Bečki od piletina",
+		slika: "assets/menu-image.png",
+		opis: "(File od piletina pohan u krušnim mrvicama)",
+		cijena: "34,00 kn"
+	},
+	{
+		naziv: "Mali mix roštilj",
+		slika: "assets/menu-image.png",
+		opis: "(Roštilj kobasica, kotlet, mala pljeskavica, pečeno na roštilju)",
+		cijena: "35,00 kn"
 	}
 ];
 
