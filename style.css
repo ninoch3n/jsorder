@@ -1,0 +1,77 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	background-color: whitesmoke;
+}
+
+#foodlist {
+	min-height: 450px;
+}
+
+.food-container {
+	margin: 20px;
+	border: 1px solid lightgrey;
+	display: block;
+	float: left;
+	width: 260px;
+	height: 375px;
+	box-shadow: 3px 5px 10px lightgrey;
+}
+
+.food-container:hover {
+	cursor: pointer;
+}
+
+.food-container h1 {
+	text-align: center;
+	font-family: "Barlow", sans-serif;
+	font-size: 24px;
+	line-height: 0.9em;
+	margin: 5px;
+	font-variant-caps: all-petite-caps;
+}
+
+.food-container p {
+	margin: 10px;
+	font-size: 14px;
+	font-family: "Barlow", sans-serif;
+	text-align: center;
+	color: grey;
+}
+
+.food-container h2 {
+	text-align: center;
+	font-size: 24px;
+	font-family: "Barlow", sans-serif;
+	font-variant-caps: all-petite-caps;
+}
+
+.title {
+	color: #ffb723;
+	margin: 10px;
+	font-family: "Barlow", sans-serif;
+	font-variant-caps: all-petite-caps;
+	font-size: 50px;
+}
+
+.display-food {
+	overflow: hidden;
+	width: 100%;
+}
+
+.horizontal-line {
+	color: grey;
+	background-color: grey;
+	border: none;
+	height: 3px;
+	width: 98%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.center-text{
+    text-align: center;
+}
